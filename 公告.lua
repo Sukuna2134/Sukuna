@@ -1,2 +1,2 @@
-local a = "刀刃球增加美化"
+local a = "通用自动朝向制作完毕 刀刃球改进"
 return a
