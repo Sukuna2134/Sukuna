@@ -1,4 +1,6 @@
 local a = {
+	'967967ez',
+	'KINGXzero',
 	'crazy_comput',
 	'dertzb4',
 	'ggsdhjjmj',
