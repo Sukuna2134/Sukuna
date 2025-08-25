@@ -39,6 +39,7 @@ local a = {
 	'BennyDblanc',
 	'nicopa88',
 	'2dodo448',
+	'Ron_Koy06',
 }
 
 return a
