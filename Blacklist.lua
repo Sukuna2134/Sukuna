@@ -40,6 +40,11 @@ local a = {
 	'nicopa88',
 	'2dodo448',
 	'Ron_Koy06',
+	'DYZWAK',
+	'INFPxyx1986',
+	'tusi12287',
+	'wdsjgz1',
+	'wdsjgz10',
 }
 
 return a
