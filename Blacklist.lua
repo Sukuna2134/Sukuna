@@ -51,6 +51,8 @@ local a = {
 	'CBHH3R',
 	'dason87123',
 	'kcdjjffhfjfhf',
+	'Q5QCLC',
+	'x3drrd',
 }
 
 return a
